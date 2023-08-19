@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692150224 source:c:\users\erenm\onedrive\masaüstü\c egzersiz\c\random\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

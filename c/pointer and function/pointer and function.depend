@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1691885111 source:c:\users\erenm\onedrive\masaüstü\c egzersiz\c\pointer and function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

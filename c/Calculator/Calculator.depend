@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1692149483 source:c:\users\erenm\onedrive\masaüstü\c egzersiz\c\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<stdio.h>
+

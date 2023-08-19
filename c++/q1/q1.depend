@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692316686 source:c:\users\erenm\onedrive\masaüstü\c egzersiz\c++\q1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
